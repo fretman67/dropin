@@ -1,7 +1,7 @@
 The database schema should have the following tables/objects.
 
 member : describes information about a user / member 
-fields: name, address, DOB, email, phone number, date joined, password, username
+fields: name, address, DOB, email, phone number, date joined, password, username, peronal Interests, Favorite(Classes & Gyms)
 
 gym: describes information about a gym
 fields: name, type, address, owner, owner phone number gym phone number, admin, admin
